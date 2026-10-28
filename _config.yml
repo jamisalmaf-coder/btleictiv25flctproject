@@ -1,0 +1,9 @@
+title: BTLE ICT IV-25 Class Compendium
+description: Facilitating Learner-Centered Teaching with Emphasis on Trainers Methodology I
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+exclude:
+  - README.md
+  - Gemfile.lock
